@@ -1,0 +1,19 @@
+{
+  "name": "pure-stylus",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ablipan/pure-stylus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ablipan/pure-stylus/issues"
+  },
+  "homepage": "https://github.com/ablipan/pure-stylus#readme"
+}
